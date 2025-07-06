@@ -32,6 +32,7 @@ Subdomains, takeovers, secrets, backups, JS fuzz, CMS info, ports — just feed 
 
 ---
 
+
 ## 📦 Installation
 
 ```bash
